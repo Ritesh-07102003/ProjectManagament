@@ -15,32 +15,40 @@
       </li>
 
       <li class="nav-item has-submenu">
-        <a class="nav-link" href="#"><span class="nav-link-text ms-1">Manage Project</span></a>
-        <ul class="submenu collapse">
+        <a class="nav-link" href="#"><span class="nav-link-text ms-1">Project</span></a>
+        <!-- <ul class="submenu collapse">
           <li><a class="nav-link text-white" href="#"><span class="nav-link-text ms-1">Add Project</span></a></li>
           <li><a class="nav-link text-white" href="#"><span class="nav-link-text ms-1">Show Projects</span></a></li>
-        </ul>
+        </ul> -->
+      </li>
 
       <li class="nav-item has-submenu">
-        <a class="nav-link" href="#"><span class="nav-link-text ms-1">Manage Employee</span></a>
-        <ul class="submenu collapse">
+        <a class="nav-link" href="#"><span class="nav-link-text ms-1">Employee</span></a>
+        <!-- <ul class="submenu collapse">
           <li><a class="nav-link text-white" href="#"><span class="nav-link-text ms-1">Add Employee</span></a></li>
           <li><a class="nav-link text-white" href="#"><span class="nav-link-text ms-1">Show Employees</span></a></li>
-        </ul>
+        </ul> -->
+      </li>
 
       <li class="nav-item has-submenu">
-        <a class="nav-link" href="#"><span class="nav-link-text ms-1">Manage Pages</span></a>
-        <ul class="submenu collapse">
+        <a class="nav-link" href="#"><span class="nav-link-text ms-1">Pages</span></a>
+        <!-- <ul class="submenu collapse">
           <li><a class="nav-link text-white" href="#"><span class="nav-link-text ms-1">Show Pages</span></a></li>
           <li><a class="nav-link text-white" href="#"><span class="nav-link-text ms-1">Add Pages</span></a></li>
-        </ul>
+        </ul> -->
+      </li>
 
       <li class="nav-item has-submenu">
-        <a class="nav-link" href="#"><span class="nav-link-text ms-1">Manage Bugs</span></a>
-        <ul class="submenu collapse">
+        <a class="nav-link" href="#"><span class="nav-link-text ms-1">Bugs</span></a>
+        <!-- <ul class="submenu collapse">
           <li><a class="nav-link text-white" href="#"><span class="nav-link-text ms-1">Show Pages</span></a></li>
           <li><a class="nav-link text-white" href="#"><span class="nav-link-text ms-1">Re-Assign</span></a></li>
-        </ul>
+        </ul> -->
+      </li>
+
+      <li class="nav-item">
+        <a class="nav-link text-white" href="#"><span class="nav-link-text ms-1">Test Case</span></a>
+      </li>
 
     </ul>
   </div>
