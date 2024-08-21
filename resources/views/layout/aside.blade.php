@@ -11,11 +11,11 @@
     <ul class="navbar-nav nav flex-column">
 
       <li class="nav-item">
-        <a class="nav-link text-white" href="#"><span class="nav-link-text ms-1">Home</span></a>
+        <a class="nav-link text-white" href="/dashboard"><span class="nav-link-text ms-1">Home</span></a>
       </li>
 
       <li class="nav-item has-submenu">
-        <a class="nav-link" href="#"><span class="nav-link-text ms-1">Project</span></a>
+        <a class="nav-link" href="/showProject"><span class="nav-link-text ms-1">Project</span></a>
         <!-- <ul class="submenu collapse">
           <li><a class="nav-link text-white" href="#"><span class="nav-link-text ms-1">Add Project</span></a></li>
           <li><a class="nav-link text-white" href="#"><span class="nav-link-text ms-1">Show Projects</span></a></li>

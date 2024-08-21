@@ -7,10 +7,12 @@ Route::get('/', function () {
     return view('login');
 });
 
-Route::get('/index', function () {
+Route::get('/dashboard', function () {
     return view('dashboard');
 });
 
+
+Route::view('/addproject','projects.addProject');
 
 Route::get('/showProject', [Projectcontroller::class,'index']);
 Route::get('/addProject', [Projectcontroller::class,'add']);
