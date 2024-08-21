@@ -1,4 +1,4 @@
-<aside class="sidenav navbar navbar-vertical navbar-expand-xs border-0 fixed-startbg-gradient-dark" id="sidenav-main">
+<aside class="sidenav navbar navbar-vertical navbar-expand-xs border-0 fixed-start bg-gradient-dark" id="sidenav-main">
   <div class="sidenav-header">
     <i class="fas fa-times p-3 cursor-pointer text-white opacity-5 position-absolute end-0 top-0 d-none d-xl-none" aria-hidden="true" id="iconSidenav"></i>
     <a class="navbar-brand m-0" href="#">
@@ -11,32 +11,32 @@
     <ul class="navbar-nav nav flex-column">
 
       <li class="nav-item">
-        <a class="nav-link text-white" href="#"> Home </a>
+        <a class="nav-link text-white" href="#"><span class="nav-link-text ms-1">Home</span></a>
       </li>
 
       <li class="nav-item has-submenu">
-        <a class="nav-link" href="#"> Manage Project </a>
+        <a class="nav-link" href="#"><span class="nav-link-text ms-1">Manage Project</span></a>
         <ul class="submenu collapse">
           <li><a class="nav-link text-white" href="#"><span class="nav-link-text ms-1">Add Project</span></a></li>
           <li><a class="nav-link text-white" href="#"><span class="nav-link-text ms-1">Show Projects</span></a></li>
         </ul>
 
       <li class="nav-item has-submenu">
-        <a class="nav-link" href="#"> Manage Employee </a>
+        <a class="nav-link" href="#"><span class="nav-link-text ms-1">Manage Employee</span></a>
         <ul class="submenu collapse">
           <li><a class="nav-link text-white" href="#"><span class="nav-link-text ms-1">Add Employee</span></a></li>
           <li><a class="nav-link text-white" href="#"><span class="nav-link-text ms-1">Show Employees</span></a></li>
         </ul>
 
       <li class="nav-item has-submenu">
-        <a class="nav-link" href="#"> Manage Pages </a>
+        <a class="nav-link" href="#"><span class="nav-link-text ms-1">Manage Pages</span></a>
         <ul class="submenu collapse">
           <li><a class="nav-link text-white" href="#"><span class="nav-link-text ms-1">Show Pages</span></a></li>
           <li><a class="nav-link text-white" href="#"><span class="nav-link-text ms-1">Add Pages</span></a></li>
         </ul>
 
       <li class="nav-item has-submenu">
-        <a class="nav-link" href="#"> Manage Bugs </a>
+        <a class="nav-link" href="#"><span class="nav-link-text ms-1">Manage Bugs</span></a>
         <ul class="submenu collapse">
           <li><a class="nav-link text-white" href="#"><span class="nav-link-text ms-1">Show Pages</span></a></li>
           <li><a class="nav-link text-white" href="#"><span class="nav-link-text ms-1">Re-Assign</span></a></li>
